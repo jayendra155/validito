@@ -1,4 +1,4 @@
 package open.stack;
 
-public class ValidationRule {
+public interface ValidationRule {
 }
